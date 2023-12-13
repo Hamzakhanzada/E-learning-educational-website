@@ -1,0 +1,263 @@
+.btn-login {
+    border-radius: 8px;
+    /* background: #FF9500; */
+    border-radius: 8px;
+    background: var(--orange-50, #FF9500);
+    padding: 14px 34px;
+    border: none;
+    color: #FFF;
+    font-family: Be Vietnam Pro;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%;
+    /* 27px */
+}
+.anchor {
+    text-decoration: none;
+    color: black;
+}
+
+.btn-login:hover {
+    background-color: orange;
+    transition: 0.2s ease-in-out;
+}
+
+.top-banner:hover {
+    background-color: orange;
+    /* color: black; */
+    transition: 0.4s ease-in-out;
+    /* fill: black !important; */
+
+
+}
+
+.arrow-right:hover {
+    fill: black !important;
+}
+
+.btn-sign {
+    background-color: transparent;
+    border: none;
+    color: black;
+}
+
+.btn-sign:hover {
+    background-color: white;
+    color: black;
+}
+
+.btn-view {
+    padding: 12px 24px;
+
+    border-radius: 8px;
+    border: 1px solid #F1F1F3;
+    background: #FCFCFD;
+    color: #262626;
+    font-family: Be Vietnam Pro;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    border: none;
+
+}
+
+.btn-pricing {
+    color: var(--grey-15, #262626);
+    text-align: center;
+    font-family: Be Vietnam Pro;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 150%;
+    /* 21px */
+    display: flex;
+    padding: 14px 20px;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+    border-radius: 6px;
+    border: 1px solid var(--white-95, #F1F1F3);
+    background: var(--absolute-white, #FFF);
+    border: none;
+}
+
+.btn-pricing:hover {
+    background-color: #FFF4E5;
+    transition: 0.2s ease-in-out;
+}
+
+.nav-link:hover {
+    background-color: #F1F1F3;
+    border-radius: 8px;
+    transition: 0.3s ease-in-out;
+}
+
+.btn-view:hover {
+    background-color: #FF9500;
+    border: none;
+    color: white;
+    transition: 0.2s ease-in-out;
+}
+
+.btn-get {
+    color: #262626;
+    font-family: Be Vietnam Pro;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    padding: 15px 230px;
+    gap: 8px;
+    border-radius: 8px;
+    border: 1px solid #F1F1F3;
+    background: #f7f7f9;
+    border: none;
+    margin-top: 20px;
+
+}
+
+.btn-get:hover {
+    background: #FF9500;
+    border: none;
+    color: white;
+    transition: 0.2s ease-in-out;
+}
+
+.btn-warning {
+    color: #4C4C4D;
+    font-family: Be Vietnam Pro;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding: 8px 14px;
+    gap: 10px;
+    border: none;
+    border-radius: 8px;
+    border: 1px solid #F1F1F3;
+    background: #FFF;
+
+
+}
+
+.btn-warning:hover {
+    background-color: #FF9500;
+    border: 1px solid #F1F1F3;
+    color: white;
+    transition: 0.2s ease-in-out;
+
+}
+
+.btn-read {
+    color: var(--grey-15, #262626);
+    text-align: center;
+    font-family: Be Vietnam Pro;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    /* 27px */
+    display: flex;
+    padding: 18px 24px;
+    border-radius: 8px;
+    border: 1px solid var(--white-95, #F1F1F3);
+    background: var(--white-97, #F7F7F8);
+    border: none;
+
+}
+
+.btn-explore {
+    padding: 14px 20px;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+    border-radius: 6px;
+    background: var(--orange-50, #FF9500);
+    color: var(--absolute-white, #FFF);
+    text-align: center;
+    font-family: Be Vietnam Pro;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 150%;
+    /* 21px */
+    border: none;
+}
+
+.sponsor-list {
+    list-style: none;
+}
+.btn-monthly {
+    color: var(--absolute-white, #FFF);
+font-family: Be Vietnam Pro;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: 150%; /* 21px */
+display: flex;
+padding: 12px 24px;
+justify-content: center;
+align-items: center;
+gap: 10px;
+border-radius: 6px;
+background: var(--orange-50, #FF9500);
+border: none;
+}
+
+.btn-monthly:hover{
+    background-color: orange;
+    border: none;
+    color: white;
+    transition: 0.2s ease-in-out;
+}
+
+
+.btn-explore:hover {
+    background: orange;
+    color: white;
+    border: none;
+    transition: 0.2s ease-in-out;
+}
+
+.btn-read:hover {
+    background-color: #FFF4E5;
+    border: none;
+    color: black;
+    transition: 0.2s ease-in-out;
+}
+
+.btn-started {
+    padding: 20px 24px;
+    border-radius: 0px 0px 8px 8px;
+    background: #FF9500;
+    width: 575px;
+    border: none;
+    color: #FFF;
+    font-family: Be Vietnam Pro;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+
+}
+
+.btn-started:hover {
+    background-color:orange;
+    color: white;
+    transition: 0.2s;
+}
+
+p {
+    margin-bottom: 0;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h4 {
+    margin-bottom: 0;
+}
+
+h2 {
+    margin-bottom: 0;
+}

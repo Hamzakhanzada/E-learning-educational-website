@@ -1,0 +1,147 @@
+@media (max-width:575.98px) {
+
+}
+@media (max-width:767.98px) {
+
+}
+@media (max-width:991.98px) {
+    .hero::after {
+        left: 310px!important;
+        top: 4px!important;
+    }
+}
+@media (max-width:1199.98px) {
+    .hero::after {
+        left: 120px !important;
+        top: 34px;
+    }
+    .image{
+        width: auto;
+        padding: 20px 20px 20px 20px ;
+    }
+    .cum {
+        font-size: 11px !important;
+    }
+    .flexible {
+        font-size: 14px;
+    }
+    .para {
+        font-size: 14px;
+    }
+    .box {
+        padding: 20px;
+    }
+    .btn-get {
+        padding: 15px 150px !important;
+    }
+    .by {
+        margin-left: 9px !important;
+        margin-top: 8px !important;
+    } 
+    .btn-read {
+        padding: 12px 20px;
+        font-size: 14px;
+    }
+    .step  {
+        font-size: 14px;
+        padding: 30px;
+    }
+    .btn-warning {
+        font-size: 14px !important;
+    }
+    .fundamentals {
+        font-size: 14px;
+    }
+    .web {
+        font-size: 16px;
+    } 
+    .sara {
+        font-size: 14px;
+    }
+    .solid {
+        font-size: 14px;
+        padding: 30px;
+    }
+    .ipsum {
+        font-size: 14px;
+    }
+    .cards {
+        width: 459px !important;
+    }
+    .free-plan {
+        padding: 10px 130px !important;
+    }
+    .main-cards {
+        padding: 20px;
+    }
+    .btn-started {
+        width: 390px !important;
+    }
+    .btn-view {
+        margin-top: -12px;
+    }
+    .frequently {
+        font-size: 40px;
+    }
+    .still {
+        font-size: 16px;
+    } 
+    .enroll {
+        font-size: 16px
+    }
+     
+
+
+}
+@media (max-width:1399.98px) {
+    .hero::after {
+        left: 210px;
+        top: 34px;
+    }
+    .for {
+        font-size: 14px;
+    } 
+    .once {
+        margin-left: 325px !important;
+        margin-top: -44px; 
+    }
+    .cum {
+        font-size: 14px;
+    }
+    .btn-get {
+        font-size: 16px;
+        padding: 15px 180px;
+    } 
+    .btn-warning {
+        font-size: 16px;
+        padding: 8px 10px;
+    }
+    .cards {
+        width: 545px;
+    } 
+    .btn-started {
+        width: 480px;
+    }
+    .free-plan {
+        padding: 10px 180px;
+    }
+    
+    .hr {
+        width: auto;
+    }
+    .path {
+        margin-left: 10px !important;
+    }
+    .horizon {
+        padding: 7px 11px;
+
+    }
+    .by {
+        margin-left: 70px;
+        margin-top: 8px;
+    }
+    
+}
+
+
+
