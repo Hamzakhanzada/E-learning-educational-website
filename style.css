@@ -10,7 +10,12 @@ body {
 
 }
 
-
+.plus-icon {
+    margin-left: 60px;
+}
+.plus-icons {
+    margin-left: 132px;
+}
 
 .top-banner {
     display: flex;

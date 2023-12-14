@@ -6,14 +6,16 @@
 }
 @media (max-width:991.98px) {
     .hero::after {
-        left: 310px!important;
-        top: 4px!important;
+        left: 20px !important;
     }
 }
 @media (max-width:1199.98px) {
     .hero::after {
         left: 120px !important;
         top: 34px;
+    }
+    .once {
+        margin-left: 340px !important;
     }
     .image{
         width: auto;
@@ -102,7 +104,7 @@
         font-size: 14px;
     } 
     .once {
-        margin-left: 325px !important;
+        margin-left: 358px !important;
         margin-top: -44px; 
     }
     .cum {
