@@ -67,9 +67,7 @@
     .ipsum {
         font-size: 14px;
     }
-    .cards {
-        width: 459px !important;
-    }
+    
     .free-plan {
         padding: 10px 130px !important;
     }
@@ -118,9 +116,7 @@
         font-size: 16px;
         padding: 8px 10px;
     }
-    .cards {
-        width: 545px;
-    } 
+     
     .btn-started {
         width: 480px;
     }
