@@ -11,7 +11,7 @@
 }
 @media (max-width:1199.98px) {
     .hero::after {
-        left: 120px !important;
+        /* left: 120px !important; */
         top: 34px;
     }
     .once {
