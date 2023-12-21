@@ -1,4 +1,8 @@
 @media (max-width:575.98px) {
+    .top-banner{
+        margin: 15px 10px;
+    }
+    
 
 }
 @media (max-width:767.98px) {
@@ -34,7 +38,7 @@
         padding: 20px;
     }
     .btn-get {
-        padding: 15px 150px !important;
+        padding: 15px !important;
     }
     .by {
         margin-left: 9px !important;
@@ -75,7 +79,7 @@
         padding: 20px;
     }
     .btn-started {
-        width: 390px !important;
+        width: 340px !important;
     }
     .btn-view {
         margin-top: -12px;
@@ -86,9 +90,7 @@
     .still {
         font-size: 16px;
     } 
-    .enroll {
-        font-size: 16px
-    }
+    
      
 
 
@@ -102,8 +104,8 @@
         font-size: 14px;
     } 
     .once {
-        margin-left: 358px !important;
-        margin-top: -44px; 
+        margin-left: 275px !important;
+        margin-top: -103px; 
     }
     .cum {
         font-size: 14px;

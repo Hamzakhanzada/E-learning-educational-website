@@ -527,7 +527,7 @@ svg {
 
 .gas {
     display: flex;
-    padding: 30px 50px;
+    padding: 30px 20px;
     align-items: center;
     align-self: stretch;
     background: var(--white-99, #FCFCFD);
@@ -596,6 +596,7 @@ svg {
     align-self: stretch;
     border-radius: 12px;
     background: var(--absolute-white, #FFF);
+    /* width: 1330px; */
 
 }
 
@@ -613,7 +614,7 @@ svg {
     border-radius: 12px;
     border: 1px solid var(--white-95, #F1F1F3);
     background: var(--white-99, #FCFCFD);
-    width: 640px;
+    /* width: 410px; */
     /* height: 1300px; */
 
 }
