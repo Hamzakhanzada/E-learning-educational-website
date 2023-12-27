@@ -2,6 +2,21 @@
     .top-banner{
         margin: 15px 10px;
     }
+    .cards {
+        padding: 0;
+    }
+    .today {
+        padding: 0;
+        justify-content: center;
+        align-items: center;
+        margin-top: 10px;
+    }
+    .main-cards {
+        padding: 0;
+    }
+    .image {
+        padding:5px;
+    }
     
 
 }
@@ -21,10 +36,10 @@
     .once {
         margin-left: 340px !important;
     }
-    .image{
+    /* .image{
         width: auto;
         padding: 20px 20px 20px 20px ;
-    }
+    } */
     .cum {
         font-size: 11px !important;
     }

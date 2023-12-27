@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:ital@0;1&family=Roboto&family=Roboto+Flex:opsz@8..144&family=Unlock&display=swap');
+
+h1 {
+    color:#262626;
+font-family: Be Vietnam Pro;
+font-size: 38px;
+font-style: normal;
+font-weight: 600;
+line-height: 150%; 
+margin-left: 60px;
+margin-top: 103px;
+}
+.welcome {
+    margin-top: 100px;
+    color: #59595A;
+font-family: Be Vietnam Pro;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 150%; 
+}
+.hero-section {
+    border-radius: 10px;
+background: var(--Absolute-White, #FFF);
+}
+h5 {
+    color:  #262626;
+font-family: Be Vietnam Pro;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: 150%;
+}
+.contain {
+    display: flex;
+padding: 40px;
+flex-direction: column;
+align-items: flex-start;
+gap: 40px;
+align-self: stretch;
+margin-top: 80px;
+}
+.horizontal {
+    color: #E4E4E7;
+    margin-top: 40px;
+}
+h5 {
+    color: var(--Grey-15, #262626);
+font-family: Be Vietnam Pro;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: 150%; /* 30px */
+}
+.fundamentals {
+    color: var(--Grey-35, #59595A);
+font-family: Be Vietnam Pro;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 150%; /* 24px */
+}
+.btn-course {
+    color: var(--Grey-15, #262626);
+text-align: center;
+font-family: Be Vietnam Pro;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: 150%; /* 21px */
+display: flex;
+padding: 14px 16px;
+justify-content: center;
+align-items: center;
+gap: 8px;
+border-radius: 6px;
+border: 1px solid var(--White-95, #F1F1F3);
+background: var(--White-99, #FCFCFD);
+}
+.btn-weak {
+    display: flex;
+padding: 8px 12px;
+align-items: flex-start;
+gap: 10px;
+border-radius: 6px;
+border: 1px solid var(--White-95, #F1F1F3);
+background: var(--Absolute-White, #FFF);
+color: var(--Grey-35, #59595A);
+font-family: Be Vietnam Pro;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.btn-inter {
+    color: var(--Grey-35, #59595A);
+font-family: Be Vietnam Pro;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+display: flex;
+padding: 8px 12px;
+align-items: flex-start;
+gap: 10px;
+border-radius: 6px;
+border: 1px solid var(--White-95, #F1F1F3);
+background: var(--Absolute-White, #FFF);
+}
+.box {
+    display: flex;
+padding: 20px 24px;
+align-items: flex-start;
+gap: 10px;
+align-self: stretch;
+border: 1px solid var(--White-95, #F1F1F3);
+}
+
