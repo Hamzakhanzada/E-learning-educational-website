@@ -120,3 +120,8 @@ border: 1px solid var(--White-95, #F1F1F3);
 .curriculum-box{
     border: 1px solid black !important;
 }
+.creative {
+    text-decoration: none;
+    text-decoration-color: none;
+    
+}
