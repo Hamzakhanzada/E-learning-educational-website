@@ -113,6 +113,10 @@ padding: 20px 24px;
 align-items: flex-start;
 gap: 10px;
 align-self: stretch;
+height: 209px;
 border: 1px solid var(--White-95, #F1F1F3);
 }
 
+.curriculum-box{
+    border: 1px solid black !important;
+}
