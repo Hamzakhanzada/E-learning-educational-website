@@ -1,7 +1,7 @@
 .video-image {
     display: flex;
-    width: 1280px;
-    height: 649px;
+    width: 100%;
+    height: auto;
     /* padding: 100px; */
     justify-content: center;
     align-items: center;
