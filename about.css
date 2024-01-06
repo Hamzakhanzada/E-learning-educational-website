@@ -94,7 +94,7 @@ margin-top: 60px;
 }
 .abstract::after {
     position: absolute;
-    content: url(abstract-img.png);
+    content: url(/images/abstract-img.png);
     top:-4;
     right:165px ;
 }
