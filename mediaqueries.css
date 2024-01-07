@@ -27,6 +27,9 @@
     .hero::after {
         left: 20px !important;
     }
+    .explore  {
+        margin-left: 250px;
+    }
 }
 @media (max-width:1199.98px) {
     .hero::after {

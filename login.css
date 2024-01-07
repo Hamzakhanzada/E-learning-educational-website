@@ -1,0 +1,201 @@
+.student {
+    color: var(--Grey-15, #262626);
+font-family: Be Vietnam Pro;
+font-size: 30px;
+font-style: normal;
+font-weight: 500;
+line-height: 150%; /* 45px */
+margin-top: 223px;
+}
+.sit {
+    color: var(--Grey-35, #59595A);
+font-family: Be Vietnam Pro;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 150%; /* 24px */
+}
+.testimonials {
+    margin-top: 217px;
+}
+.btn-read {
+    display: flex !important;
+padding: 14px 16px !important;
+justify-content: center !important;
+align-items: center !important;
+gap: 8px !important;
+border-radius: 6px !important;
+border: 1px solid var(--White-95, #F1F1F3) !important;
+background: var(--White-97, #F7F7F8) !important;
+}
+.arrow-button {
+    border-radius: 6px;
+border: 1px solid var(--White-95, #F1F1F3);
+background: var(--Absolute-White, #FFF);
+padding: 12px;
+align-items: flex-start;
+gap: 10px;
+}
+.arrows {
+    margin-left:500px;
+    margin-top: 24px;
+}
+.form {
+    display: flex;
+width: 540px;
+padding: 40px;
+flex-direction: column;
+align-items: flex-start;
+gap: 40px;
+flex-shrink: 0;
+border-radius: 10px;
+background: var(--Absolute-White, #FFF);
+margin-top: 100px;
+
+}
+.login-form {
+    color: var(--Grey-15, #262626);
+text-align: center !important;
+font-family: Be Vietnam Pro;
+font-size: 38px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+margin-left: 25px;
+}
+.back {
+    color: var(--Grey-30, #4C4C4D);
+text-align: center;
+font-family: Be Vietnam Pro;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.form-control {
+    display: flex !important;
+padding: 20px !important;
+align-items: center !important;
+gap: 10px !important;
+align-self: stretch !important;
+border-radius: 8px !important;
+border: 1px solid var(--White-95, #F1F1F3) !important;
+background: var(--White-99, #FCFCFD) !important;
+width: 423px !important;
+margin-top: 10px;
+}
+.forget {
+    margin-left: 280px;
+    color: var(--Grey-30, #4C4C4D);
+text-align: right;
+font-family: Be Vietnam Pro;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 150%; /* 24px */
+}
+.remember {
+    color: var(--Grey-40, #656567);
+font-family: Be Vietnam Pro;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 150%; /* 24px */
+}
+.btn-log {
+    display: flex;
+padding: 14px 20px !important;
+align-items: center;
+gap: 10px !important;
+align-self: stretch !important;
+border-radius: 8px !important;
+background: var(--Orange-50, #FF9500) !important;
+width: 425px !important;
+color: var(--Absolute-White, #FFF) !important;
+text-align: center !important;
+font-family: Be Vietnam Pro !important;
+font-size: 14px !important;
+font-style: normal !important;
+font-weight: 500 !important;
+line-height: 150% !important; 
+}
+.line {
+    width: 190px;
+height: 1px;
+}
+.are {
+    color: var(--Grey-60, #98989A);
+text-align: center;
+font-family: Inter;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 150%; /* 21px */
+}
+.goggle {
+    display: flex;
+padding: 16px 24px;
+justify-content: center;
+align-items: center;
+gap: 14px;
+align-self: stretch;
+    border-radius: 8px;
+border: 1px solid var(--White-95, #F1F1F3);
+background: var(--White-97, #F7F7F8);
+width: 425px;
+}
+.accountent {
+    color: var(--Grey-15, #262626);
+text-align: center;
+font-family: Be Vietnam Pro;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 150%; /* 24px */
+margin-top: 24px;
+
+}
+.up {
+    color: var(--Grey-15, #262626);
+font-family: Be Vietnam Pro;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: 150%;
+text-decoration-line: underline;
+}
+.with {
+    margin-top: 24px;
+}
+.lines {
+    margin-top: 24px;
+}
+.foundation {
+    
+    color: #4C4C4D;
+    font-family: Be Vietnam Pro;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%;
+    display: flex;
+    padding: 40px;
+    align-items: flex-start;
+    gap: 10px;
+    align-self: stretch;
+    background: white;
+    margin-bottom: 0;
+    margin-top: -400px;
+}
+footer {
+    background-color: white;
+}
+label {
+    color: var(--Grey-15, #262626);
+font-family: Be Vietnam Pro;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: 150%; /* 24px */
+/* margin-top: 10px; */
+}
