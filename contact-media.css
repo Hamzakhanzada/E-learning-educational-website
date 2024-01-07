@@ -1,0 +1,9 @@
+@media (max-width: 575.98px) {
+    .form-control {
+        width: 100% !important;
+    }
+    .course-banner {
+        width: auto !important;
+        margin: 15px 0px !important;
+    }
+}
